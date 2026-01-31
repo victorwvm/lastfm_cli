@@ -1,0 +1,5 @@
+.env
+.git
+*.exe
+lastfm_cli
+*.log
