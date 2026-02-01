@@ -44,3 +44,9 @@ docker run -it -e LASTFM_API_KEY="YOUR_API_KEY_HERE" lastfm-cli topTracks
 - `Dockerfile` – Docker configuration  
 - `.dockerignore` / `.gitignore` – Ignored files  
 - `go.mod` / `go.sum` – Go dependencies
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/eeadbbab-1a32-4002-9c09-8b46063169f4" width="450" />
+  <img src="https://github.com/user-attachments/assets/2267e125-4194-4690-82de-4c005c8d4da4" width="450" />
+</p>
+
